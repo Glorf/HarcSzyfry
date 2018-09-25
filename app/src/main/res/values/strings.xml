@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HarcSzyfry</string>
+    <string name="fragment_sylabowy">fragment_sylabowy</string>
+    <string name="drawer_title">Wybierz szyfr</string>
+    <string name="title_section1">Sylabowy</string>
+    <string name="title_section2">Wsteczny</string>
+    <string name="title_section3">Cezara</string>
+    <string name="title_section4">Morse\'a</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="podaj_wiadomosc">Podaj wiadomość:</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="sylabowyArray">
+        <item>GADERYPOLUKI</item>
+        <item>KCMINUTOWY</item>
+        <item>POLITYKARENU</item>
+        <item>KONIECMATURY</item>
+        <item>MALINOWEBUTY</item>
+        <item>MOTYLECUDAKI</item>
+        <item>Inny</item>
+    </string-array>
+
+    <string-array name="cezAlfabetArray">
+        <item>Polski - bez polskich znaków</item>
+        <item>Polski - polskie znaki</item>
+        <item>Angielski</item>
+        <item>Inny</item>
+    </string-array>
+
+    <string-array name="cezPrzesArray">
+        <item>3</item>
+        <item>10</item>
+        <item>13</item>
+        <item>Inne</item>
+    </string-array>
+
+</resources>
